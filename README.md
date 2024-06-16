@@ -1,2 +1,2 @@
-# CodSoft2k24
+# CODSOFT
 repo for python internship at CodSoft
